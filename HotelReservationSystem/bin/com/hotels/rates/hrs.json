@@ -1,0 +1,42 @@
+[
+	{
+		"name": "Lakewood",
+		"rating": 3,
+		"regularRates": {
+			"weekday": 110,
+			"weekend": 90
+		},
+		"rewardsRates": {
+			"weekday": 80,
+			"weekend": 80
+		}
+	},
+	{
+		"name": "Bridgewood",
+		"rating": 4,
+		"regularRates": {
+			"customerType": "regular",
+			"weekday": 160,
+			"weekend": 60
+		},
+		"rewardsRates": {
+			"customerType": "rewards",
+			"weekday": 110,
+			"weekend": 50
+		}
+	},
+	{
+		"name": "Ridgewood",
+		"rating": 5,
+		"regularRates": {
+			"customerType": "regular",
+			"weekday": 220,
+			"weekend": 150
+		},
+		"rewardsRates": {
+			"customerType": "rewards",
+			"weekday": 100,
+			"weekend": 40
+		}
+	}
+]
